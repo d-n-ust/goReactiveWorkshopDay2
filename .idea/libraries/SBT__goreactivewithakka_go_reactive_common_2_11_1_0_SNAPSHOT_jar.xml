@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: goreactivewithakka:go-reactive-common_2.11:1.0-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/goreactivewithakka/go-reactive-common_2.11/1.0-SNAPSHOT/jars/go-reactive-common_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/goreactivewithakka/go-reactive-common_2.11/1.0-SNAPSHOT/srcs/go-reactive-common_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
